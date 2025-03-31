@@ -105,8 +105,3 @@
 ### 👨‍💻 About Me:
 
 I'm a developer with a strong focus on building scalable and efficient applications. I love learning new technologies and improving my skills daily. Feel free to explore my projects and get in touch if you'd like to collaborate or chat about tech!
-
----
-
-### ⚡ Fun Fact:
-I’m passionate about both development and design, and I aim to create beautiful, functional projects that help improve users' experiences.
