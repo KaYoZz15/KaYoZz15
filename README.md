@@ -79,7 +79,7 @@
 
 <p align="center">
   <!-- GitHub Stats Widget -->
-  <img src="https://github-readme-stats.vercel.app/api?username=echallierkevin&show_icons=true&count_private=true&hide=prs&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KaYoZz15&show_icons=true&count_private=true&hide=prs&theme=radical" alt="GitHub Stats" />
 </p>
 
 ---
@@ -88,7 +88,7 @@
 
 <p align="center">
   <!-- Contribution Graph Widget -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=echallierkevin&theme=radical" alt="Contribution Graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KaYoZz15&theme=radical" alt="Contribution Graph" />
 </p>
 
 ---
@@ -97,7 +97,7 @@
 
 <p align="center">
   <!-- Most Used Languages Widget -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=echallierkevin&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KaYoZz15&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
