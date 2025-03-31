@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.kevinechallier.fr/">🌐 Visit My Portfolio</a>
+  🌐 [My Portfolio](https://www.kevinechallier.fr/)
 </p>
 
 ---
@@ -14,35 +14,79 @@
 ### 📬 Connect with me:
 <p align="center">
   <a href="https://linkedin.com/in/kevin-echallier-03b78424a" target="_blank">
-    LinkedIn
+    <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
 ---
 
 ### 🛠️ Technologies & Tools:
-- **Languages:**
-  - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-  - [Java](https://www.java.com)
-  - [PHP](https://www.php.net)
-  - [Python](https://www.python.org)
-  - [CSS3](https://www.w3schools.com/css/)
-  - [HTML5](https://www.w3.org/html/)
-  - [MySQL](https://www.mysql.com)
 
-- **Tools & Frameworks:**
-  - [Android Development](https://developer.android.com)
-  - [Docker](https://www.docker.com)
-  - [Git](https://git-scm.com)
-  - [AWS](https://aws.amazon.com)
-  - [Figma](https://www.figma.com)
-  
-- **Operating Systems:**
-  - [Linux](https://www.linux.org)
+#### **Languages:**
+<p align="center">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://img.shields.io/badge/JavaScript-efd81d?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
+  </a>
+  <a href="https://www.java.com" target="_blank">
+    <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" alt="Java" />
+  </a>
+  <a href="https://www.php.net" target="_blank">
+    <img src="https://img.shields.io/badge/PHP-777bb3?style=flat&logo=php&logoColor=white" alt="PHP" />
+  </a>
+  <a href="https://www.python.org" target="_blank">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank">
+    <img src="https://img.shields.io/badge/HTML5-e34f26?style=flat&logo=html5&logoColor=white" alt="HTML5" />
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img src="https://img.shields.io/badge/CSS3-2965f1?style=flat&logo=css3&logoColor=white" alt="CSS3" />
+  </a>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://img.shields.io/badge/MySQL-4479a1?style=flat&logo=mysql&logoColor=white" alt="MySQL" />
+  </a>
+</p>
+
+#### **Frameworks & Tools:**
+<p align="center">
+  <a href="https://developer.android.com" target="_blank">
+    <img src="https://img.shields.io/badge/Android-3ddc84?style=flat&logo=android&logoColor=white" alt="Android" />
+  </a>
+  <a href="https://www.docker.com" target="_blank">
+    <img src="https://img.shields.io/badge/Docker-2496ed?style=flat&logo=docker&logoColor=white" alt="Docker" />
+  </a>
+  <a href="https://aws.amazon.com" target="_blank">
+    <img src="https://img.shields.io/badge/AWS-232f3e?style=flat&logo=amazonaws&logoColor=white" alt="AWS" />
+  </a>
+  <a href="https://git-scm.com" target="_blank">
+    <img src="https://img.shields.io/badge/Git-f1502f?style=flat&logo=git&logoColor=white" alt="Git" />
+  </a>
+  <a href="https://www.figma.com" target="_blank">
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" alt="Figma" />
+  </a>
+</p>
+
+#### **Operating Systems:**
+<p align="center">
+  <a href="https://www.linux.org" target="_blank">
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux" />
+  </a>
+</p>
 
 ---
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KaYoZz15&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=echallierkevin&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
+
+---
+
+### 👨‍💻 About Me:
+
+I'm a developer with a strong focus on building scalable and efficient applications. I love learning new technologies and improving my skills daily. Feel free to explore my projects and get in touch if you'd like to collaborate or chat about tech!
+
+---
+
+### ⚡ Fun Fact:
+I’m passionate about both development and design, and I aim to create beautiful, functional projects that help improve users' experiences.
