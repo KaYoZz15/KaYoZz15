@@ -76,8 +76,28 @@
 ---
 
 ### 📊 GitHub Stats:
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KaYoZz15&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <!-- GitHub Stats Widget -->
+  <img src="https://github-readme-stats.vercel.app/api?username=echallierkevin&show_icons=true&count_private=true&hide=prs&theme=radical" alt="GitHub Stats" />
+</p>
+
+---
+
+### 📈 Contribution Graph:
+
+<p align="center">
+  <!-- Contribution Graph Widget -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=echallierkevin&theme=radical" alt="Contribution Graph" />
+</p>
+
+---
+
+### 📊 Most Used Languages:
+
+<p align="center">
+  <!-- Most Used Languages Widget -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=echallierkevin&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
